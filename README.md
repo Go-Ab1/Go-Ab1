@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Goitom Abrha
+- 👋 Hi,
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on ...
