@@ -1,10 +1,5 @@
-- 👋 Hi,
-- 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there!
 
-<!---
-Go-Ab1/Go-Ab1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about Robotics and Artificial Intelligence, constantly driven by the possibilities these fields offer to revolutionize our world.
+
+🎓 Currently, I'm pursuing an MSc in Robotics, delving deep into the intricacies of autonomous systems, machine learning, and advanced robotic algorithms.
